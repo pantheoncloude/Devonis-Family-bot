@@ -12,7 +12,7 @@ module.exports = {
 
     const embed = new EmbedBuilder()
       .setTitle(`📺 ${CHANNEL_NAME}`)
-      .setURL(`https://youtube.com/@devonisfamily`)
+      .setURL(`https://youtube.com/@DevonisFamily`)
       .setColor("#FF0000")
       .setDescription("🔗 Click to visit the channel")
       .setThumbnail("https://yt3.googleusercontent.com/xd-d_00ELc31AB6BPBlnBQXXL0ULn3vycEKD6ZjRYAFUc8OnhLjMM1l3rUGX58c9qDOnZQiM9w=s160-c-k-c0x00ffffff-no-rj")
